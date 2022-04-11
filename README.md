@@ -9,3 +9,6 @@ APIs, CI/CD, package management or PHP
 
 - 📫 How to reach me:
 One of the options on [https://seanmolenaar.eu/](https://seanmolenaar.eu/)
+
+---
+Anyone trying to recruit me through GitHub will be blocked, marked as spam and subscribed to as many newsletters as I can find.
