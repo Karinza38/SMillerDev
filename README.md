@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://stand-with-ukraine.pp.ua)
 - 🔭 I’m currently working on:
 Being a [Homebrew](https://github.com/homebrew/) maintainer and a [Nextcloud/news](https://github.com/nextcloud/news/) contributor
 
