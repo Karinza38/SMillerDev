@@ -11,4 +11,4 @@ APIs, CI/CD, package management or PHP
 One of the options on [https://seanmolenaar.eu/](https://seanmolenaar.eu/)
 
 ---
-Anyone trying to recruit me through GitHub will be blocked, marked as spam and subscribed to as many newsletters as I can find.
+Anyone trying to recruit me or sell me something through GitHub will be blocked, marked as spam and subscribed to as many newsletters as I can find.
