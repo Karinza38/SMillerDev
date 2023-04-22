@@ -9,7 +9,8 @@ APIs, CI/CD, package management or PHP
 
 - 📫 How to reach me:
 One of the options on [https://seanmolenaar.eu/](https://seanmolenaar.eu/)
-Contact me on <a rel="me" href="https://mastodon.social/@SMillerNL">Mastodon</a>
+
+Or contact me on <a rel="me" href="https://mastodon.social/@SMillerNL">Mastodon</a>
 
 ---
 Anyone trying to recruit me or sell me something through GitHub will be blocked, marked as spam and subscribed to as many newsletters as I can find.
